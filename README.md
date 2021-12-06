@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Ícone do projeto" title="" src=".github/log.svg" width="200px" />
+  <img alt="Ícone do projeto" title="" src=".github/logo.svg" width="200px" />
 </h1>
 
 <p align="center">
